@@ -6,9 +6,7 @@
     </style>
 
     <style name="AppTheme.Base" parent="Theme.AppCompat">
-        <!--<item name="colorPrimary">@color/teal</item>-->
-        <!--<item name="colorPrimaryDark">@color/teal_dark</item>-->
-        <item name="android:windowNoTitle">true</item>
+        <item name="windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
         <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
 

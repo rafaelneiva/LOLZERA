@@ -16,4 +16,14 @@
     <color name="red_dark">#d32f2f</color>
     <color name="deep_purple">#673ab7</color>
     <color name="deep_purple_dark">#512da8</color>
+
+    <!-- LOLZERA -->
+    <color name="colorAccent">#FFC107</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#212121</color>
+    <color name="colorDivider">#B6B6B6</color>
+    <color name="colorTextIcons">#FFFFFF</color>
 </resources>
